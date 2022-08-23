@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+컴공, 소프트웨어 희망 고등학생
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+대덕고
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[scudeto1@naver.com](mailto:email@domain.com)
