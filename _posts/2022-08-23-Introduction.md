@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: 최승찬의 알고리즘 풀이
 
 toc: true
 toc_sticky: true
